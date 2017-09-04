@@ -1,0 +1,34 @@
+Chapter 3 notes
+
+Logic 
+Making Decisions and Repeating yourself
+
+Understanding true and false
+everything is true
+
+expect the following!  
+0
+0.0
+string containing nothing at all
+string containing only the character 0
+false 
+null
+empty array
+
+if sentence
+==============
+if ($variable == somethings){
+	condition;
+}
+
+strcmp()
+// $a is a negative number since 1 is less than 12.7
+$a=1<=>12.7;
+<=> 
+change the numerical string to number. 
+
+
+! sign
+
+$i = 1;
+$i <= 10(true,$i is 1)
