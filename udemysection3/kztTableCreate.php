@@ -1,4 +1,7 @@
 <?php
+$first_name = $_POST['user_firstname'];
+$last_name  = $_POST['user_lastname'];
+$age 		= $_POST['age'];
 
 $hostname	 = "localhost";
 $username	 = "root";
@@ -35,9 +38,7 @@ if ($dbSuccess) {
    
    echo "Fetched data successfully\n";
 
-   $sql = 'INSERT INTO user'.
-      '(first_name, last_name, age, address) '.
-      'VALUES ( "Chan Myae", "San Hlaing", 25, "Pazaungdaung" )';
+   $sql = 'INSERT INTO user (first_name, last_name, age, address) VALUES ("{$first_name} ","Aye", "3", "Pazaungdaungs")';
       
    mysql_select_db('kzt');
    $retval = mysql_query( $sql, $dbConnected );
@@ -45,17 +46,11 @@ if ($dbSuccess) {
    if(! $retval ) {
       die('Could not enter data: ' . mysql_error());
    }
-
-   <form method="POST" action="<?=($_SERVER['PHP_SELF'])?>">
-   Your FirstName: <input type="text" name="user_firstname" /> <br/>
-   Your LastName:  <input type="text" name = "user_lastname"/> <br/>
-   <button type="submit"">Say Hello</button> </form>
-   
-   echo "Entered data successfully\n";
-
-   mysql_close($dbConnected);
-
 }
-
-
+echo $first_name;
+echo $last_name;
+echo $age;
 ?>
+
+
+
