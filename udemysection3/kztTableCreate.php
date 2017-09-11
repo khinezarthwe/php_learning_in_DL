@@ -2,7 +2,6 @@
 $first_name = $_POST['user_firstname'];
 $last_name  = $_POST['user_lastname'];
 $age 		= $_POST['age'];
-
 $hostname	 = "localhost";
 $username	 = "root";
 $password	 = "";
@@ -38,8 +37,12 @@ if ($dbSuccess) {
    
    echo "Fetched data successfully\n";
 
-   $sql = 'INSERT INTO user (first_name, last_name, age, address) VALUES ("{$first_name} ","Aye", "3", "Pazaungdaungs")';
-      
+
+
+
+   $sql = "INSERT INTO user (first_name, last_name, age, address)
+           VALUES ('$first_name','$last_name','$age', 'Pazaungdaungs')";
+   
    mysql_select_db('kzt');
    $retval = mysql_query( $sql, $dbConnected );
    
@@ -47,9 +50,6 @@ if ($dbSuccess) {
       die('Could not enter data: ' . mysql_error());
    }
 }
-echo $first_name;
-echo $last_name;
-echo $age;
 ?>
 
 

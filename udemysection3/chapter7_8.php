@@ -1,5 +1,7 @@
 <?php
 
+
+
 if ($_SERVER['REQUEST_METHOD']=='POST'){
 	if ($form_errors = validate_form()){
 		process_form();
@@ -11,11 +13,11 @@ if ($_SERVER['REQUEST_METHOD']=='POST'){
 }
 ////print the name when the form is submitted
 function process_form(){
-	print "Hello  " . $_POST['my_name'];
+	print "Hello  " . $_POST['name'];
 }
 
 ///showing the form 
-function show_form($errors=) {
+function show_form($errors='') {
 	if ($errors) {
 		print 'Please correct these errors: <ul><li>';
 		print implode('</li><li>', $errors);
@@ -24,7 +26,7 @@ function show_form($errors=) {
 
 	print<<<_HTML_
 <form method="POST" action="$_SERVER[PHP_SELF]">
-Your name: <input type="text" name="my_name">
+Your name: <input type="text" name="name">
 <br/>
 <input type="submit" value="Say Hello">
 </form>

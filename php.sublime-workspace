@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"is",
+				"isMultiple"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"htm",
+				"htmlentities"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"show",
+				"show_form"
+			],
+			[
+				"vali",
+				"validate_form"
+			],
+			[
+				"fil",
+				"filter_input"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"form",
+				"form_errors"
+			],
+			[
+				"my",
+				"my_name"
+			],
+			[
+				"t",
+				"tol"
+			],
+			[
+				"inin",
+				"ingredient1"
+			],
+			[
+				"in",
+				"ingredient1"
+			],
+			[
+				"ing",
+				"ingredient"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"if",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"has",
+				"has_ingredient"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"db",
+				"dbSelected"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pay",
+				"paymentmethod"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"total",
+				"totalamount_without_tip"
+			],
+			[
+				"tax",
+				"tax_amount"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"user_firstname"
+			],
+			[
+				"data",
+				"database_name"
+			],
+			[
+				"_",
+				"_POST"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "validate.php",
+			"settings":
+			{
+				"buffer_size": 1161,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FormHelper.php",
+			"settings":
+			{
+				"buffer_size": 2973,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "completeform.php",
+			"settings":
+			{
+				"buffer_size": 3925,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "complete-form.php",
+			"settings":
+			{
+				"buffer_size": 1424,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udemysection3/kztTableCreate.php",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "insert-form.php",
+			"settings":
+			{
+				"buffer_size": 787,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udemysection3/dbtestwithhiddensource.php",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "php.sublime-project",
+			"settings":
+			{
+				"buffer_size": 166,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udemysection3/chapter7_8.php",
+			"settings":
+			{
+				"buffer_size": 804,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: i",
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 350.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install Xdebug",
+			"Xdebug"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/administrator/Documents/php_learning_in_DL",
+		"/Users/administrator/Documents/php_learning_in_DL/udemysection3"
+	],
+	"file_history":
+	[
+		"/usr/local/etc/php/5.6/php.ini",
+		"/Users/administrator/Documents/php_learning_in_DL/php.sublime-project",
+		"/Users/administrator/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/administrator/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Users/administrator/Documents/php_learning_in_DL/complete.sublime-project",
+		"/Users/administrator/Documents/php_learning_in_DL/testfordebug.sublime-project",
+		"/Users/administrator/Documents/php_learning_in_DL/udemysection3/kztTableCreate.php",
+		"/Users/administrator/Documents/php_learning_in_DL/noted.txt",
+		"/Users/administrator/Documents/php_learning_in_DL/udemysection3/insert.php",
+		"/Users/administrator/Documents/config/dbconfig.php",
+		"/Users/administrator/Documents/php_learning_in_DL/function.php",
+		"/Users/administrator/Documents/php_learning_in_DL/chapter5ex.php",
+		"/Users/administrator/Documents/php_learning_in_DL/loop.php",
+		"/Users/administrator/Documents/php_learning_in_DL/datafromdb.php",
+		"/Users/administrator/Documents/php_learning_in_DL/dbtestwithhiddensource.php",
+		"/Users/administrator/Documents/php_learning_in_DL/chapter4and5.php",
+		"/Users/administrator/Documents/php_learning_in_DL/udemysection3/show.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xdebug",
+			"20131223",
+			"}",
+			"characters",
+			">\n",
+			";\n",
+			"');\n",
+			"DocumentRoot",
+			"root",
+			"dlcj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "validate.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FormHelper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2856,
+								2856
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 875.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "completeform.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "complete-form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "udemysection3/kztTableCreate.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1179,
+								1179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "insert-form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "udemysection3/dbtestwithhiddensource.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "php.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "udemysection3/chapter7_8.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.943117178612,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 292.0
+	},
+	"pinned_build_system": "",
+	"project": "php.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 7
+				},
+				"95":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"98":
+				{
+					"group": 0,
+					"index": 5
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.943117178612,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
