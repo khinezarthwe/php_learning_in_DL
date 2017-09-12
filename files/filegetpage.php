@@ -9,5 +9,8 @@ if (date('H' >= 12)){
 	}
 $page = str_replace('{name}', 'Khinezar', $page);
 
-file_put_contents('page.html', $page);
+$result = file_put_contents('page.html', $page);
+	if (($result === false) || ($result == -1)) {
+		print "Couldn't save HTML to page.html";
+	}
  ?>
