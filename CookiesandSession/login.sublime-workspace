@@ -1,0 +1,880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"db",
+				"dbSuccess"
+			],
+			[
+				"php",
+				"php_errormsg"
+			],
+			[
+				"di",
+				"dishes"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"dish",
+				"dish_name"
+			],
+			[
+				"Fe",
+				"FETCH_NUM"
+			],
+			[
+				"mysql",
+				"mysql_close"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"is",
+				"isMultiple"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"htm",
+				"htmlentities"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"show",
+				"show_form"
+			],
+			[
+				"vali",
+				"validate_form"
+			],
+			[
+				"fil",
+				"filter_input"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"form",
+				"form_errors"
+			],
+			[
+				"my",
+				"my_name"
+			],
+			[
+				"t",
+				"tol"
+			],
+			[
+				"inin",
+				"ingredient1"
+			],
+			[
+				"in",
+				"ingredient1"
+			],
+			[
+				"ing",
+				"ingredient"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"if",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"has",
+				"has_ingredient"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pay",
+				"paymentmethod"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"total",
+				"totalamount_without_tip"
+			],
+			[
+				"tax",
+				"tax_amount"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"user_firstname"
+			],
+			[
+				"data",
+				"database_name"
+			],
+			[
+				"_",
+				"_POST"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 531,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "signup.php",
+			"settings":
+			{
+				"buffer_size": 578,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/signup.inc.php",
+			"settings":
+			{
+				"buffer_size": 317,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/logout.inc.php",
+			"settings":
+			{
+				"buffer_size": 102,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/login.inc.php",
+			"settings":
+			{
+				"buffer_size": 368,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 317,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 307,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/administrator/Documents/php_learning_in_DL/.gitignore",
+			"settings":
+			{
+				"buffer_size": 171,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: i",
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 350.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install Xdebug",
+			"Xdebug"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/administrator/Documents/php_learning_in_DL",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/includes",
+		"/Users/administrator/Documents/php_learning_in_DL/exec"
+	],
+	"file_history":
+	[
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/index.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/logout.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/login.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/usertablecreate.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/dbbase.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/signup.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/cookies.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/sessioncounting.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/login.sublime-project",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/loginform.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/welcome.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/session.php",
+		"/Users/administrator/Documents/php_learning_in_DL/CookiesandSession/config.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/csvtodatabase.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/errorcheckingfile.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/people.txt",
+		"/Users/administrator/Documents/php_learning_in_DL/files/csvtobrowser.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/filepermission.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/csvtohtmltable.php",
+		"/Users/administrator/Documents/php_learning_in_DL/.gitignore",
+		"/Users/administrator/Documents/php_learning_in_DL/files/filegetpage.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/accessingfile.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/csv.sublime-project",
+		"/Users/administrator/Documents/php_learning_in_DL/files/dish.csv",
+		"/Users/administrator/Documents/php_learning_in_DL/exec/createtable.php",
+		"/Users/administrator/Documents/php_learning_in_DL/differentfetchstyle.php",
+		"/Users/administrator/Documents/php_learning_in_DL/udemysection3/kztTableCreate.php",
+		"/Users/administrator/Documents/php_learning_in_DL/exec/showdata.php",
+		"/Users/administrator/Documents/php_learning_in_DL/files/page-template.html",
+		"/Users/administrator/Documents/php_learning_in_DL/searchform.php",
+		"/usr/local/etc/php/5.6/php.ini",
+		"/Users/administrator/Documents/php_learning_in_DL/php.sublime-project",
+		"/Users/administrator/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/administrator/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Users/administrator/Documents/php_learning_in_DL/complete.sublime-project",
+		"/Users/administrator/Documents/php_learning_in_DL/testfordebug.sublime-project",
+		"/Users/administrator/Documents/php_learning_in_DL/noted.txt",
+		"/Users/administrator/Documents/php_learning_in_DL/udemysection3/insert.php",
+		"/Users/administrator/Documents/config/dbconfig.php",
+		"/Users/administrator/Documents/php_learning_in_DL/function.php",
+		"/Users/administrator/Documents/php_learning_in_DL/chapter5ex.php",
+		"/Users/administrator/Documents/php_learning_in_DL/loop.php",
+		"/Users/administrator/Documents/php_learning_in_DL/datafromdb.php",
+		"/Users/administrator/Documents/php_learning_in_DL/dbtestwithhiddensource.php",
+		"/Users/administrator/Documents/php_learning_in_DL/chapter4and5.php",
+		"/Users/administrator/Documents/php_learning_in_DL/udemysection3/show.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error",
+			");\n",
+			"');\n",
+			");\n",
+			"xdebug",
+			"20131223",
+			"}",
+			"characters",
+			">\n",
+			";\n",
+			"');\n",
+			"DocumentRoot",
+			"root",
+			"dlcj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "includes/signup.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "includes/logout.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "includes/login.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/administrator/Documents/php_learning_in_DL/CookiesandSession",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/administrator/Documents/php_learning_in_DL/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.943117178612,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"restore_index":
+			{
+				"371":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"372":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"373":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"374":
+				{
+					"group": 0,
+					"index": 8
+				},
+				"389":
+				{
+					"group": 0,
+					"index": 7
+				},
+				"421":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"422":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"423":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"424":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"440":
+				{
+					"group": 2,
+					"index": 1
+				},
+				"441":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"442":
+				{
+					"group": 2,
+					"index": 0
+				},
+				"443":
+				{
+					"group": 1,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.601330524744,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
