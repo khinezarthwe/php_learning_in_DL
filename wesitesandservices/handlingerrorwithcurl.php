@@ -3,8 +3,6 @@ $c = curl_init('https://api.example.gov/');
 curl_setopt($c, CURLOPT_RETURNTRANSFER, true);
 $result = curl_exec($c);
 $info = curl_getinfo($c);
-var_dump($result);
-var_dump($info);
 
 if ($result === false){
 	print "Error #" . curl_errno($c) . "<br>";
